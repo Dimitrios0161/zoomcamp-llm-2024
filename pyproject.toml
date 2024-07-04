@@ -2,7 +2,7 @@
 name = "zoomcamp-llm-2024"
 version = "0.1.0"
 description = ""
-authors = ["Dimitrios Ntak <dakoulas88@hotmail.com>"]
+authors = ["Dimitrios Ntak"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
